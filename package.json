@@ -1,5 +1,5 @@
 {
-    "name": "@riyanofficial/baileys",
+    "name": "@riyan-official/baileys",
     "version": "1.0.1",
     "description": "WhatsApp API Modification By Riyan Official",
     "keywords": [
@@ -15,7 +15,7 @@
     "homepage": "https://www.npmjs.com/package/@riyanofficial/baileys",
     "repository": {
         "type": "git",
-        "url": "https://github.com/RiyanOfficial-dev/baileys"
+        "url": "https://github.com/Riyan-Official/baileys"
     },
     "license": "MIT",
     "author": "Riyan Official",
